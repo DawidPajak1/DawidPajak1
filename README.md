@@ -1,2 +1,2 @@
-<a href="dawidpajak1.github.io/DawidPajak1/timezone-converter">Przelicznik stref czasowych</a>
-<a href="dawidpajak1.github.io/DawidPajak1/weather-forecast">Pogoda</a>
+[Przelicznik stref czasowych](dawidpajak1.github.io/DawidPajak1/timezone-converter)<br>
+[Pogoda](dawidpajak1.github.io/DawidPajak1/weather-forecast)<br>
